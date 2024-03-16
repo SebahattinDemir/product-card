@@ -5,7 +5,7 @@ import products from "./products.json";
 
 const CardBody = () => {
   return (
-    <Container>
+    <Container className="my-4">
       <Row xs={1} sm={2} md={3} lg={4}>
         {products.map((products) => (
           <Col key={products.id}>
