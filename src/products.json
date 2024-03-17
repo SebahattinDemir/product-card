@@ -5,7 +5,7 @@
     "title": "Anker Soundcore",
     "desc": "Hybrid active Noise Canceling Headphones",
     "rating": 4.89,
-    "discountPercentage": 12.96,
+    "discountPercentage": 15,
     "price": 59
   },
   {
@@ -14,7 +14,7 @@
     "title": "Sony MDRZX110NC",
     "desc": "Noise Canceling Headphones, Cable, Black",
     "rating": 4.29,
-    "discountPercentage": 12.96,
+    "discountPercentage": 20,
     "price": 79
   },
   {
@@ -23,16 +23,16 @@
     "title": "Bose Soundlink",
     "desc": "Around Ear Wireless Headphones II, Black",
     "rating": 3.69,
-    "discountPercentage": 12.96,
+    "discountPercentage": 10,
     "price": 55
   },
   {
     "id": "4",
     "image": "product4.jpg",
     "title": "iJoy Matte",
-    "desc": "Finish Premium Rechargeable Wireless Headphones",
+    "desc": "Finish Rechargeable Wireless Headphones",
     "rating": 4.79,
-    "discountPercentage": 12.96,
+    "discountPercentage": 15,
     "price": 65
   },
   {
@@ -41,7 +41,7 @@
     "title": "Beats Solo 3",
     "desc": "Wireless On-Ear Headphones - Apple W1",
     "rating": 4.39,
-    "discountPercentage": 12.96,
+    "discountPercentage": 25,
     "price": 70
   },
   {
@@ -50,7 +50,7 @@
     "title": "Sony WH-1000XM4",
     "desc": "Wireless Industry Leading Noise Canceling",
     "rating": 4.69,
-    "discountPercentage": 12.96,
+    "discountPercentage": 30,
     "price": 99
   },
   {
@@ -59,7 +59,7 @@
     "title": "Sony ABC",
     "desc": "Wireless Industry Leading Noise Canceling",
     "rating": 4.09,
-    "discountPercentage": 12.96,
+    "discountPercentage": 10,
     "price": 125
   },
   {
@@ -68,7 +68,7 @@
     "title": "Sony ABC",
     "desc": "Wireless Industry Leading Noise Canceling",
     "rating": 2.69,
-    "discountPercentage": 12.96,
-    "price": 125
+    "discountPercentage": 15,
+    "price": 100
   }
 ]
