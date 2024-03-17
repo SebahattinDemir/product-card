@@ -11,14 +11,14 @@ const CardProduct = (props) => {
 
   return (
     <Card className="text-center">
-      <Card.Body>
+      <Card.Body >
         <div className="position-relative">
-          <Card.Subtitle className="position-absolute top-0 rounded-3 p-2  text-light bg-success me-3">
+          <Card.Subtitle className="position-absolute top-0 rounded-3 p-2  text-white bg-success me-3">
             -{discountPercentage}%
           </Card.Subtitle>
           <Card.Img variant="top" src={`img/${image}`} />
         </div>
-        <Card.Title className="mt-4">{title}</Card.Title>
+        <Card.Title className="mt-4 ">{title}</Card.Title>
         <Rating rating={rating} />
         <Card.Text>{desc}</Card.Text>
         <div className="d-flex justify-content-center">
